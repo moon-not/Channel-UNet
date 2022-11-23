@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>DBeaver</title>
+    <link>http://marketplace.eclipse.org/content/dbeaver</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Community_icon.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/sriderdp1/listings&quot; title=&quot;Serge Rider&quot;&gt;Serge Rider&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2012-11-04 11:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2021-05-16 17:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22DBeaver%20Corp%22&quot;&gt;DBeaver Corp&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;DBeaver is free universal SQL client/database tool for developers and database administrators. It can work with any database server which has JDBC or ODBC driver. It supports pluggable extensions.&lt;/p&gt;
+&lt;p&gt;Features: database schema browser, metadata editor (tables, columns, keys, indexes), SQL statements/scripts execution, SQL highlighting, autocompletion, formatting; result set/table view/edit/search; BLOB/CLOB view/edit support; GIS spatial data viewer, scrollable resultsets; transactions management; database metadata and full-text search; ER diagrams; server sessions management, transaction locks management, SSH/SOCKS support; automatic drivers download; stored procedures debugger; data import/export/migration; task management, database health monitoring dashboards; spatial data viewer; git integration; office formats support; etc.&lt;/p&gt;
+&lt;p&gt;Includes drivers for: MySQL, MariaDB, Oracle, DB2, PostgreSQL, SQL Server, Sybase, Apache Hive, Drill, Presto, Trino, Phoenix, Exasol, Informix, Teradata, Vertica, Netezza, Firebird, Derby, H2, H2GIS, WMI, Snowflake, Greenplum, AWS Redshift, AWS Athena, SAP HANA, MaxDB, NuoDB, MS Access, SQLite, CSV, DBF, Firebird, TimescaleDB, Yellowbrick, CockroachDB, OrientDB, MonetDB, Google BigQuery, Google Spanner, Apache Hive/Impala/Spark, Apache Ignite, MapD, Azure SQL, CrateDB, Elasticsearch, Ocient, Ingres, OmniSci, Yugabyte, IRIS, Data Virtuality, DuckDB.&lt;/p&gt;
+&lt;p&gt;Supports Color Theme and Darkest Dark themes.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Standalone version download available on &lt;a href=&quot;https://dbeaver.io/download/&quot; rel=&quot;nofollow&quot;&gt;https://dbeaver.io/download/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Source code: &lt;a href=&quot;https://github.com/dbeaver/dbeaver&quot; rel=&quot;nofollow&quot;&gt;https://github.com/dbeaver/dbeaver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;User guide: &lt;a href=&quot;https://github.com/dbeaver/dbeaver/wiki&quot; rel=&quot;nofollow&quot;&gt;https://github.com/dbeaver/dbeaver/wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 04 Nov 2012 16:30:36 +0000</pubDate>
+ <dc:creator>sriderdp1</dc:creator>
+ <guid isPermaLink="false">507775 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/dbeaver#comments</comments>
+  </item>
+  <item>
+    <title>mesfavoris</title>
+    <link>http://marketplace.eclipse.org/content/mesfavoris</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/mesfavoris-110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/chabanois/listings&quot; title=&quot;Cédric  habanois&quot;&gt;Cédric  habanois&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-11-21 16:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2021-05-15 15:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Mesfavoris is an eclipse plugin that allows you to &lt;strong&gt;bookmark&lt;/strong&gt; your files and share them with your team using GDrive. Features :&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;bookmark files and urls&lt;/li&gt;
+&lt;li&gt;save your bookmarks on GDrive so that you can use them from your desktop and laptop computer.&lt;/li&gt;
+&lt;li&gt;share some of your bookmarks &lt;/li&gt;
+&lt;li&gt;bookmarks can resist changes in the files thanks to Bitap algorithm &lt;/li&gt;
+&lt;li&gt;numbered bookmarks&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 21 Nov 2016 21:42:06 +0000</pubDate>
+ <dc:creator>chabanois</dc:creator>
+ <guid isPermaLink="false">3176231 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/mesfavoris#comments</comments>
+  </item>
+  <item>
+    <title>Asciidoctor Editor</title>
+    <link>http://marketplace.eclipse.org/content/asciidoctor-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/asciidoctor-editor-logo_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-03-15 15:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2021-05-15 12:50&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Asciidoctor Editor&lt;/h2&gt;
+&lt;p&gt;This eclipse plugin is a text editor for asciidoc files.&lt;/p&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Fast html preview&lt;/li&gt;
+&lt;li&gt;Uses &lt;a href=&quot;https://github.com/de-jcup/asp&quot; rel=&quot;nofollow&quot;&gt;ASP&lt;/a&gt; for out-of-the-box usage (no installation of asciidoctor required) or can use installed asciidoctor with customizable CLI arguments&lt;/li&gt;
+&lt;li&gt;Can export to PDF&lt;/li&gt;
+&lt;li&gt;Code completion for pathes used in includes, images, diagrams etc.&lt;/li&gt;
+&lt;li&gt;Supports text based diagram generation&lt;br /&gt;
+	( &lt;a href=&quot;https://github.com/stathissideris/ditaa&quot; rel=&quot;nofollow&quot;&gt;ditaa&lt;/a&gt;, &lt;a href=&quot;https://plantuml.com/&quot; rel=&quot;nofollow&quot;&gt; plantuml&lt;/a&gt; and &lt;a href=&quot;https://www.graphviz.org/&quot; rel=&quot;nofollow&quot;&gt;graphviz&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;3 different preview modes:
+&lt;ul&gt;&lt;li&gt;Inline preview with editor
+&lt;ul&gt;&lt;li&gt;Vertical splitted&lt;/li&gt;
+&lt;li&gt;Horizontal splitted&lt;/li&gt;
+&lt;li&gt;Both variantes are immediately updated on text save&lt;/li&gt;
+&lt;li&gt;When cursor comes in line of anchor or headline it automatically scrolls internal preview to location - also opposite way, when selecting a headline in preview the editor part will be selected and shown (if not an included part...)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;External preview
+&lt;ul&gt;&lt;li&gt;Using external Browser&lt;/li&gt;
+&lt;li&gt;Update per autorefresh in browser
+&lt;ul&gt;&lt;li&gt;time configurable&lt;/li&gt;
+&lt;li&gt;can be turned off also&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Interesting when having multiple monitors and wanting to have full sized text document and preview&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Provides asciidocconfig.adoc files - see &lt;a href=&quot;https://github.com/de-jcup/eclipse-asciidoctor-editor/wiki/Asciidoctor-configfiles&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Outline and Quickoutline
+&lt;ul&gt;&lt;li&gt;Headlines&lt;/li&gt;
+&lt;li&gt;Includes (double click opens file)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Syntax highlighting in Text Editor
+&lt;ul&gt;&lt;li&gt;Colors can be customized.&lt;/li&gt;
+&lt;li&gt;Dark theme automatic color support.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Templates + Simple code completion for existing words&lt;/li&gt;
+&lt;li&gt;Tooltips&lt;/li&gt;
+&lt;li&gt;Hyperlinking of include parts (CTRL+Mouse)&lt;/li&gt;
+&lt;li&gt;Can search for references of asciidoc files in workspace&lt;/li&gt;
+&lt;li&gt;Convenient toolbar actions
+&lt;ul&gt;&lt;li&gt;Table wizard&lt;/li&gt;
+&lt;li&gt;Code block templates&lt;/li&gt;
+&lt;li&gt;Possibility to toggle TOC on/off in output view&lt;/li&gt;
+&lt;li&gt;Switch preview layout variant&lt;/li&gt;
+&lt;li&gt;Jump to top of preview (internal preview panel only)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Additional editors included for
+&lt;ul&gt;&lt;li&gt;.ditaa files&lt;/li&gt;
+&lt;li&gt;.plantuml files&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Can convert one file or multiple files in selected folder
+&lt;ul&gt;&lt;li&gt;Formats supported:
+&lt;ul&gt;&lt;li&gt;markdown (*.md)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Links related to the plugin&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-asciidoctor-editor/issues&quot; rel=&quot;nofollow&quot;&gt;Issue Tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-asciidoctor-editor/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-asciidoctor-editor/wiki&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLaBYAz_I_8tFByQ7EWnemjZgx7q-quDyp&quot; rel=&quot;nofollow&quot;&gt;YouTube Video playlist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Additional links&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://asciidoctor.org/docs/asciidoc-syntax-quick-reference&quot; rel=&quot;nofollow&quot;&gt;Asciidoctor Quickreference&lt;/a&gt; for details about syntax&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/stathissideris/ditaa&quot; rel=&quot;nofollow&quot;&gt;ditaa&lt;/a&gt;on github&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plantuml.com/&quot; rel=&quot;nofollow&quot;&gt;plantuml&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.graphviz.org/&quot; rel=&quot;nofollow&quot;&gt;graphviz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Technical details&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;It uses internally ASP server or installed asciidoctor to provide a WYSWYG integration.&lt;/li&gt;
+&lt;li&gt;When using plantuml (or graphviz itself) you must ensure you have installed graphviz on your machine&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 15 Mar 2018 19:51:28 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">3976500 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/asciidoctor-editor#comments</comments>
+  </item>
+  <item>
+    <title>EGit - Git Integration for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/egit-git-integration-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/egit64.png&quot; width=&quot;64&quot; height=&quot;64&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/caniszczyk/listings&quot; title=&quot;Chris Aniszczyk&quot;&gt;Chris Aniszczyk&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2010-06-18 16:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2021-05-14 16:21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse.org%22&quot;&gt;Eclipse.org&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;EGit is the Git integration for Eclipse. Git is a distributed versioning system, which means every developer has a full copy of all history of every revision of the code, making queries against the history very fast and versatile. The EGit project is implementing Eclipse tooling on top of the JGit Java implementation of Git. To get started, check out our user guide: &lt;a href=&quot;http://wiki.eclipse.org/EGit/User_Guide&quot; rel=&quot;nofollow&quot;&gt;http://wiki.eclipse.org/EGit/User_Guide&lt;/a&gt; If you have any questions, please use our support forum: &lt;a href=&quot;http://www.eclipse.org/forums/index.php?t=thread&amp;amp;frm_id=48&quot; rel=&quot;nofollow&quot;&gt;http://www.eclipse.org/forums/index.php?t=thread&amp;amp;frm_id=48&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 18 Jun 2010 20:30:26 +0000</pubDate>
+ <dc:creator>caniszczyk</dc:creator>
+ <guid isPermaLink="false">1336 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/egit-git-integration-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>IBM WebSphere Application Server V8.5x Developer Tools</title>
+    <link>http://marketplace.eclipse.org/content/ibm-websphere-application-server-v85x-developer-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wdt-was-lp-500_4_0_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/canderson/listings&quot; title=&quot;Carl Anderson&quot;&gt;Carl Anderson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2014-07-02 08:38&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2021-05-14 09:39&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;An Eclipse IDE for building and deploying Java EE, OSGi and Web 2.0 applications to WebSphere Application Server V8.5x. For more information about installing and downloading the tools, including archived versions of the tools for older versions of Eclipse, see &lt;a href=&quot;https://developer.ibm.com/wasdev/docs/websphere-developer-tools-releases/&quot; rel=&quot;nofollow&quot;&gt;WebSphere Application Server Developer Tools Releases&lt;/a&gt;&lt;br /&gt;
+note: This install is only supported for Java 8 versions of eclipse. Eclipse version 2020-06 or before&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 02 Jul 2014 12:38:38 +0000</pubDate>
+ <dc:creator>canderson</dc:creator>
+ <guid isPermaLink="false">1778507 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ibm-websphere-application-server-v85x-developer-tools#comments</comments>
+  </item>
+  <item>
+    <title>IBM WebSphere Application Server V9.x Developer Tools</title>
+    <link>http://marketplace.eclipse.org/content/ibm-websphere-application-server-v9x-developer-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wdt-was-lp-500_11.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/dfloreshr7/listings&quot; title=&quot;Dario Flores&quot;&gt;Dario Flores&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-02-09 17:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2021-05-14 09:18&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;An Eclipse 4.x IDE for building and deploying Java EE, OSGi and Web 2.0 applications to WebSphere Application Server traditional V9.x with Java EE 7. For more information about installing and downloading the tools, including archived versions of the tools for older versions of Eclipse, see &lt;a href=&quot;https://developer.ibm.com/wasdev/docs/websphere-developer-tools-releases/&quot; rel=&quot;nofollow&quot;&gt;WebSphere Application Server Developer Tools Releases&lt;/a&gt;&lt;br /&gt;
+note: This install is only supported for Java 8 versions of eclipse. Eclipse version 2020-06 or before&lt;br /&gt;
+ &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 09 Feb 2016 22:54:09 +0000</pubDate>
+ <dc:creator>dfloreshr7</dc:creator>
+ <guid isPermaLink="false">2714441 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ibm-websphere-application-server-v9x-developer-tools#comments</comments>
+  </item>
+  <item>
+    <title>Jaspersoft Studio</title>
+    <link>http://marketplace.eclipse.org/content/jaspersoft-studio</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo_mini.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/gtoffoli/listings&quot; title=&quot;Giulio Toffoli&quot;&gt;Giulio Toffoli&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2010-08-30 09:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-05-13 12:14&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22TIBCO%20Jaspersoft%22&quot;&gt;TIBCO Jaspersoft&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;TIBCO Jaspersoft® Studio is editing software for TIBCO JasperReports®. It will help you design and run report templates; build report queries; write complex expressions; layout visual components like 50+ types of charts, maps, tables, crosstabs, and custom visualisations; and much more. It integrates TIBCO JasperReports® Server to create powerful report publishing workflows. With Jaspersoft Studio you can build documents of any complexity from your data—from print-ready in PDFs to interactive masterpieces in dynamic HTML, with navigation to interactive components, like maps and charts that may be inside or outside the report. You can generate high quality OpenOffice, PowerPoint , RTF, Word, and spreadsheet documents. Or you can generate raw CSV, JSON, or XML documents. It&#039;s not difficult to build your own custom exporter to suit any data need. Using Jaspersoft Studio, you can access different types of data sources, including big data, CSV, Hibernate, Jaspersoft Domain, JavaBeans, JDBC, JSON, NoSQL, TIBCO Spotfire® Information Links, XML, or your own custom data source. Jaspersoft Studio comes in two editions: Community and Professional, the first is available as Eclipse plug-in and as standalone application, while the Professional version is available only as standalone application and includes additional features, like access to Spotfire, maps, and advanced HTML5 charts, as well as professional support.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Jaspersoft Studio The standalone version can be downloaded here: &lt;a href=&quot;http://community.jaspersoft.com/project/jaspersoft-studio/releases&quot; rel=&quot;nofollow&quot;&gt;http://community.jaspersoft.com/project/jaspersoft-studio/releases&lt;/a&gt; The update sites archive can be found here: &lt;a href=&quot;http://sourceforge.net/projects/jasperstudio/files/updatesite/&quot; rel=&quot;nofollow&quot;&gt;http://sourceforge.net/projects/jasperstudio/files/updatesite/&lt;/a&gt; If you are noticing installation issues with Jaspersoft Studio plug-in or the RCP update mechanism please give a look at the following troubleshooting article that explains how to deal with the problems caused by the Sourceforge latest changes: &lt;a href=&quot;http://community.jaspersoft.com/wiki/solving-installation-and-update-errors-related-update-site-jaspersoft-studio&quot; rel=&quot;nofollow&quot;&gt;Solving installation and update errors related to the update site of Jaspersoft Studio&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 30 Aug 2010 13:34:52 +0000</pubDate>
+ <dc:creator>gtoffoli</dc:creator>
+ <guid isPermaLink="false">8068 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/jaspersoft-studio#comments</comments>
+  </item>
+  <item>
+    <title>MailSnag</title>
+    <link>http://marketplace.eclipse.org/content/mailsnag</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/mailsnag2_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/kkelleykfu/listings&quot; title=&quot;Kevin Kelley&quot;&gt;Kevin Kelley&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2010-09-26 16:43&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2021-05-12 16:31&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Foos-Bar%22&quot;&gt;Foos-Bar&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;With MailSnag, you can debug application generated emails within Eclipse. MailSnag creates a simple SMTP server to capture and inspect emails sent out by an application during development. You can view the email rendered as HTML, text or both. You can also view the raw data, embedded content and attachments. NOTE: As of v1.3.0, Mylyn is an optional dependency. If you have it installed, you&#039;ll be able to utilize the popup notifications. Otherwise, they will be disabled. Feedback and suggestions are always welcome! To submit a bug report or feature request, go to: &lt;a href=&quot;https://github.com/foosbar/mailsnag/issues&quot; rel=&quot;nofollow&quot;&gt;https://github.com/foosbar/mailsnag/issues&lt;/a&gt; And you can view project statistics on Ohloh.net &lt;a href=&quot;https://www.ohloh.net/p/mailsnag&quot; rel=&quot;nofollow&quot;&gt;https://www.ohloh.net/p/mailsnag&lt;/a&gt; Support languages: English, German, Spanish, French and Portuguese. Support for 3.4 has been dropped, although since Mylyn commons UI is an optional dependency, it may function again.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 26 Sep 2010 20:43:18 +0000</pubDate>
+ <dc:creator>kkelleykfu</dc:creator>
+ <guid isPermaLink="false">13883 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/mailsnag#comments</comments>
+  </item>
+  <item>
+    <title>ImageJ Plugin</title>
+    <link>http://marketplace.eclipse.org/content/imagej-plugin</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mmisingnameaoh/listings&quot; title=&quot;Marcel Austenfeld&quot;&gt;Marcel Austenfeld&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-10-05 06:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2021-05-12 11:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Bio7%22&quot;&gt;Bio7&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This plugin integrates the scientific image application ImageJ in an Eclipse view and is also part of the Bio7 application (&lt;a href=&quot;http://bio7.org&quot; rel=&quot;nofollow&quot;&gt;http://bio7.org&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;ImageJ is an open source image processing program designed for the analysis of scientific multidimensional images. Supported ImageJ images can be opened and analyzed in multiple view tabs.&lt;/p&gt;
+&lt;p&gt;ImageJ Plugins and macros are supported, too and can be installed in the plugins subfolder or the install location defined in the preferences.&lt;/p&gt;
+&lt;p&gt;Furthermore a full featured ImageJ macro editor is available to script image analysis tasks within the Eclipse environment which can be opened together with the ImageJ view in an available ImageJ perspective.&lt;/p&gt;
+&lt;p&gt;For more information visit:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Bio7/EclipseImageJ1Plugin&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Bio7/EclipseImageJ1Plugin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://bio7.org&quot; rel=&quot;nofollow&quot;&gt;http://bio7.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ImageJ documentation and websites:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imagej.nih.gov/ij/&quot; rel=&quot;nofollow&quot;&gt;https://imagej.nih.gov/ij/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imagej.net/Welcome&quot; rel=&quot;nofollow&quot;&gt;http://imagej.net/Welcome&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imagej.nih.gov/ij/docs/guide/146.html&quot; rel=&quot;nofollow&quot;&gt;https://imagej.nih.gov/ij/docs/guide/146.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ImageJ Release Notes: &lt;a href=&quot;https://imagej.nih.gov/ij/notes.html&quot; rel=&quot;nofollow&quot;&gt;https://imagej.nih.gov/ij/notes.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please note: To scale the Swing parts correctly with SWT on Windows and Linux add the following vm argument to Eclipse, e.g.,:&lt;br /&gt;
+-Dsun.java2d.uiScale=1.0 (or for HighDPI: 2.0)&lt;br /&gt;
+For further UI Improvements on MacOSX , see: &lt;a href=&quot;https://github.com/Bio7/EclipseImageJ1Plugin&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Bio7/EclipseImageJ1Plugin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;New in 1.53j (1.53.j43):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated the ImageJ plugin to version 1.53j43&lt;/li&gt;
+&lt;li&gt;Renamed the &#039;Detach Images&#039; menu actions&lt;/li&gt;
+&lt;li&gt;Images can now be detached in a seperate view window (&#039;Open All Images as Views&#039;)&lt;/li&gt;
+&lt;li&gt;Added &#039;Open All Images as Views&#039; action preferences (coordinates, size, etc., to layout several windows side by side, e.g., on a secondary screen)&lt;/li&gt;
+&lt;li&gt;Added the latest macro templates&lt;/li&gt;
+&lt;li&gt;Fixed some minor bugs&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53j (1.53.j35):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated the ImageJ plugin to version 1.53j35&lt;/li&gt;
+&lt;li&gt;Added the latest macro templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53j (1.53.j26):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated the ImageJ plugin to version 1.53j26&lt;/li&gt;
+&lt;li&gt;Detached images can now be closed in a macro by name or string argument&lt;/li&gt;
+&lt;li&gt;Improved the image close method. Now also closes detached images if opened&lt;/li&gt;
+&lt;li&gt;The color for composite images is now displayed in the status line&lt;/li&gt;
+&lt;li&gt;The image and color information for detached images is shown in the status line&lt;/li&gt;
+&lt;li&gt;Fixed the ImageWindow show method which opened a minimized JFrame, e.g., in batch mode&lt;/li&gt;
+&lt;li&gt;Added the latest macro templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53j (1.53.j7):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53j7&lt;/li&gt;
+&lt;li&gt;Improved the &quot;Zoom to Selection&quot; and Zoom &quot;To&quot; action for the embedded canvas in a tab&lt;/li&gt;
+&lt;li&gt;Improved the image close method (for the &quot;Arrange Channels&quot; action and some other plugins)&lt;/li&gt;
+&lt;li&gt;Improved the &quot;Stack to Images&quot; action now running in a job to avoid blocking UI threads&lt;/li&gt;
+&lt;li&gt;Simplified the &quot;Images to Stack&quot; action to run correctly in macros&lt;/li&gt;
+&lt;li&gt;Added a timelag for plot windows to avoid blocking threads on MacOSX&lt;/li&gt;
+&lt;li&gt;Added the latest  macro templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53i (1.53.i25):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53i25&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ macro editor speed. No more flickering editor markers&lt;/li&gt;
+&lt;li&gt;Added a editor hoover to display editor hex colors and an hoover action to set the hex color with a dialog.&lt;/li&gt;
+&lt;li&gt;Added a sort and collapse action to the macro editor outline view.&lt;/li&gt;
+&lt;li&gt;Added the image information (which is normally displayed in the image window) to the Eclipse status line if a tab is selected or a stack/composite slider is moved.&lt;/li&gt;
+&lt;li&gt;Added an action to change the tab title color according to the color of the selected composite image channel.&lt;/li&gt;
+&lt;li&gt;Added a new color action for the new ImageJ message display method (tab title color and toolbar color)&lt;/li&gt;
+&lt;li&gt;Improved the outline redraw action for MacOSX&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53h (1.53h.h62):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.h62&lt;/li&gt;
+&lt;li&gt;Fixed and improved the outline navigation for MacOSX&lt;/li&gt;
+&lt;li&gt;Fixed a corrupted button layout in the histogram canvas on MacOSX&lt;/li&gt;
+&lt;li&gt;Improved the debug start action&lt;/li&gt;
+&lt;li&gt;Added new ImageJ macro templates&lt;/li&gt;
+&lt;li&gt;Improved template description&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.h (1.53.h30):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.h30&lt;/li&gt;
+&lt;li&gt;Improved the context menu of the ROI Manager (using SWT)&lt;/li&gt;
+&lt;li&gt;Added new ImageJ macro templates&lt;/li&gt;
+&lt;li&gt;Improved template description&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.g (1.53.g57):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.g57&lt;/li&gt;
+&lt;li&gt;Improved the main menu bar extensibility&lt;/li&gt;
+&lt;li&gt;Added new ImageJ macro templates&lt;/li&gt;
+&lt;li&gt;Improved template description&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.f (1.53.f40):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.f40&lt;/li&gt;
+&lt;li&gt;The main view menubar  can now be extended if a plugin uses the main menu of ImageJ&lt;/li&gt;
+&lt;li&gt;Replaced several AWT context and toolbar menus with SWT context menus (ImageJ toolbar, image canvas, ROI Manager Menu &quot;More&quot; and the Plots menu) which fixes several AWT glitches (Linux, HighDPI) and respects the Eclipse theme settings (e.g., dark menus on Windows)&lt;/li&gt;
+&lt;li&gt;Improved the debug display in the macro editor (color marker preferences, new arrow indicator icon)&lt;/li&gt;
+&lt;li&gt;Improved the plot button display (especially when using a dark theme)&lt;/li&gt;
+&lt;li&gt;Fixed several toolbar macro tool bugs and updated all macro tools&lt;/li&gt;
+&lt;li&gt;Fixed the context menu macro tools (&quot;Restore Startup Tools&quot; now working as it should and updates the context menu)&lt;/li&gt;
+&lt;li&gt;Added new macro function templates&lt;/li&gt;
+&lt;li&gt;Several bugfixes&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.e (1.53.e05 - Bugfix release):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a toolbar deadlock when view was attached and Eclipse reopened&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.e (1.53.e4):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.e4&lt;/li&gt;
+&lt;li&gt;Added or improved new default macro editor templates&lt;/li&gt;
+&lt;li&gt;Removed deprecated MacAdapter&lt;/li&gt;
+&lt;li&gt;Improved &#039;Split Channels&#039; for Mac&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.d (1.53.d34):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.d34&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates&lt;/li&gt;
+&lt;li&gt;Added Improved RankFilters class (thanks to Michael Schmid)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.d (1.53.d7):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.d7&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates&lt;/li&gt;
+&lt;li&gt;Improved Java 14 compiler support&lt;/li&gt;
+&lt;li&gt;Improved layout after crop operation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.c (1.53.c62):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.c62&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;li&gt;Added Java 14 compiler support&lt;/li&gt;
+&lt;li&gt;Fixed a deadlock in the HTMLDialog&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.c (1.53.c3):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.c3&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;li&gt;Fixed a HyperStack converter bug.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.a (1.53a25):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.a25&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.a (1.53a21):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.a21&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.v (1.52v19):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52v19&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.u (1.52u33):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52u33&lt;/li&gt;
+&lt;li&gt;Fixed a version number display bug.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.u (1.52u29):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52u29&lt;/li&gt;
+&lt;li&gt;A change of the ImageJ plugin location (&#039;Plugins Path&#039;) in the preferences now automatically updates the plugins classpath and menus (avoids to use the action &#039;Help-&amp;gt;Refresh Menus&#039; in a second step).&lt;/li&gt;
+&lt;li&gt;Fixed a Compiler path bug for Linux and MacOSX when using the Plugins-&amp;gt;&#039;Compile Java Eclipse&#039; action to compile an ImageJ plugin from the current opened Java editor.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.u (1.52u28):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52u28&lt;/li&gt;
+&lt;li&gt;Fixed a SWT memory bug not releasing native children of image tabs.&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.u (1.52u24):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Added a new thumbnail action to the context menu of the &#039;Navigator&#039; view to open image and LUT files of a selected directory.&lt;/li&gt;
+&lt;li&gt;LUT&#039;s can now be displayed (preview) in the &#039;Thumbnails&#039; view. The selected LUT will be applied on the current supported ImageJ image (grayscale).&lt;/li&gt;
+&lt;li&gt;The Image info is now displayed as a popup in the &#039;Thumbnails&#039; view (if you hoover over an item).&lt;/li&gt;
+&lt;li&gt;Added a &#039;Detach All Images&#039; action (menu &#039;Window&#039;) to transfer all opened tab images to a view (which can be moved and arranged like a separate window)&lt;/li&gt;
+&lt;li&gt;Improved dark theme for AWT on Windows, MacOSX and Linux.&lt;/li&gt;
+&lt;li&gt;Added custom text properties to allow future dark themes or disable dark theme color schemes.&lt;/li&gt;
+&lt;li&gt;Improved the canvas layout for HighDPI displays on Windows.&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;li&gt;Improved the default AWT fonts (using OS fonts).&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.q (1.52q48):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a deadlock occuring  on MacoSX when detaching image tabs.&lt;/li&gt;
+&lt;li&gt;Fixed a PlotWindow deadlock when using the action &quot;Close All&quot;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;
+New in 1.52.q (1.52q46):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;New debug view toolbar actions availabe to easily debug ImageJ macros (without loosing editor key focus on MacOSX when an image is created or opened).&lt;/li&gt;
+&lt;li&gt;Implemented all default ImageJ debug actions as toolbar actions (one action for &#039;Trace&#039; and &#039;Fast Trace&#039;)&lt;/li&gt;
+&lt;li&gt;New debug functions available to set a variable value in debug mode.&lt;/li&gt;
+&lt;li&gt;New breakpoint actions available to set, edit, delete breakpoints and simple expression breakpoints (evaluate  boolean variable expression) in the ruler menu of the editor. Created breakpoints are automatically stored, too.&lt;/li&gt;
+&lt;li&gt;Extended the editor hoover to display the variable values when you hoover the editor. Array values will be displayed, too.&lt;/li&gt;
+&lt;li&gt;The default array value display table will be opened if you click on the debug view table column.&lt;/li&gt;
+&lt;li&gt;Implemented several text editor and toolbar changes to visualize the debugging process.&lt;/li&gt;
+&lt;li&gt;Fixed several bugs.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;See: &lt;a href=&quot;https://forum.image.sc/t/eclipse-imagej-plugin-update-released-with-improved-debugger-interface/22952/16&quot; rel=&quot;nofollow&quot;&gt;https://forum.image.sc/t/eclipse-imagej-plugin-update-released-with-impr...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;New in 1.52.q (1.52q45):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a PlotWindow deadlock&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.q (1.52q44):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52q44&lt;/li&gt;
+&lt;li&gt;Improved the embedded and detached PlotWindows. Now all plot windows are simultaneously resized according to their parent canvas (embedded or detached)&lt;/li&gt;
+&lt;li&gt;Fixed a bug in the detach menu action (wrong id and panel settings)&lt;/li&gt;
+&lt;li&gt;Removed the &#039;*&#039; tab icon (usually indicating an unsaved editor file) from the detached custom view by deleting the &#039;ISaveablePart2&#039; interface&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.q (1.52q34):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a toolbar exception when the toolbar was embedded in the Image perspective and not saved detached&lt;/li&gt;
+&lt;li&gt;Fixed wrong tab colors&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.q (1.52q30):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52q30&lt;/li&gt;
+&lt;li&gt;A new integrated Eclipse ImageJ macro debug view is available as an replacement for the debug dialog (close and reopen the perspective if you update this plugin to add the new view!)&lt;/li&gt;
+&lt;li&gt;Improved the Linux dark theme GUI for embedded AWT and Swing dialogs&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ macro code completion in general&lt;/li&gt;
+&lt;li&gt;Editor defined variables are added to the code completion and shown according to their scope (function or macro defined variables are added when opening the code completion inside this scope. Function arguments are added, too)&lt;/li&gt;
+&lt;li&gt;Editor defined functions are added to code completion.&lt;/li&gt;
+&lt;li&gt;Editor defined function arguments are added as selectable templates&lt;/li&gt;
+&lt;li&gt;Comments and multiline comments of editor defined functions are shown in the context code completion view (must be defined above the function)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52p (1.52p61):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52p61&lt;/li&gt;
+&lt;li&gt;Added Java 12 compiler target&lt;/li&gt;
+&lt;li&gt;Added new macro code completion templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52p (1.52p36):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52p36&lt;/li&gt;
+&lt;li&gt;Improved code completion to find and set functions with fixed arguments&lt;/li&gt;
+&lt;li&gt;Improved hoover information to list all functions with identical name&lt;/li&gt;
+&lt;li&gt;Added new macro code completion templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52p (1.52p30):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52p30&lt;/li&gt;
+&lt;li&gt;Improved automatic layout correction for synchronized detached views (e.g., orthogonal views)&lt;/li&gt;
+&lt;li&gt;Improved titles of detached views to show correct titles and updates (e.g., coordinates of synchronized orthogonal views)&lt;/li&gt;
+&lt;li&gt;Improved the centering of dialogs in a multi-monitor setup (dialogs are centered in the monitor which contains the ImageJ view tabfolder)&lt;/li&gt;
+&lt;li&gt;Improved the code completion cursor location and arguments are now templates selectable with the tab key&lt;/li&gt;
+&lt;li&gt;Improved the code completion sorting of templates&lt;/li&gt;
+&lt;li&gt;Added a preference option to change the critera for code completion search to suggest function templates which contain the prefix&lt;/li&gt;
+&lt;li&gt;Added new file, directory dialogs to insert paths at the current cursor location.&lt;/li&gt;
+&lt;li&gt;Added a color and hex color dialog to select and insert color strings into the editor. Selected hex colors are displayed in the color dialog (if created before with the dialog)&lt;/li&gt;
+&lt;li&gt;Added new macro templates&lt;/li&gt;
+&lt;li&gt;Fixed several bugs (e.g., opened dialog option popups in macros, deadlock with SWT dialog in a running macro)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52m (1.52m28):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52m28&lt;/li&gt;
+&lt;li&gt;Implemented dynamic plot scaling when the image tabsize changes&lt;/li&gt;
+&lt;li&gt;Reset Plot action scales plot to default values (context menu &quot;Plot Size&quot;)&lt;/li&gt;
+&lt;li&gt;Plot fullscreen scaling support&lt;/li&gt;
+&lt;li&gt;Detached tab plot scaling support&lt;/li&gt;
+&lt;li&gt;Now tabs are visible selected when a window or image is selected (before the selection occured, too but invisible for speed reasons)&lt;/li&gt;
+&lt;li&gt;Implemented the Window components menu to make hidden components visible again (ROI Manager, Threshold, etc. - apparently works on MacOSX and Windows only)&lt;/li&gt;
+&lt;li&gt;Implemented Refresh Menus (if you create and compile a new plugin in the plugins folder with Eclipse (dynamically without restart) you can refresh the menu to update the plugins menu dynamically without a restart!)&lt;/li&gt;
+&lt;li&gt;Implemented the &quot;Help-&amp;gt;Examples-&amp;gt;Autorun Examples&quot; checkbox menu (true or false)&lt;/li&gt;
+&lt;li&gt;Restored the modal dialogs on Windows&lt;/li&gt;
+&lt;li&gt;Added latest macro API templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52m (1.52m20):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ version 1.52m (1.52m20)&lt;/li&gt;
+&lt;li&gt;Added new macro function definitions&lt;/li&gt;
+&lt;li&gt;Zoom factor is now displayed in the image tabs&lt;/li&gt;
+&lt;li&gt;Workaround a SWT key focus loss with ImageJ on Linux (occurred on Ubuntu 18.10)&lt;/li&gt;
+&lt;li&gt;Fixed an exception when adding an image to a stack (action &quot;Add Slice&quot;) of size 1&lt;/li&gt;
+&lt;li&gt;Detached tab images are now closed, too when using the &quot;File-&amp;gt;Close All&quot; view menu action&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52m (1.52m12):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ version 1.52m (1.52m12)&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ canvas (Plot canvas and Image canvas are now opened as intended)&lt;/li&gt;
+&lt;li&gt;Improved plot canvas (zooming, actions, etc. are now working as intended)&lt;/li&gt;
+&lt;li&gt;Plot action buttons are now added below the each plot&lt;/li&gt;
+&lt;li&gt;Added new actions to interpret the current opened Eclipse editor sources (BeanShell, JavaScript, Jython and ImageJ macro) using the ImageJ interpreters (using, e.g., PyDev for Jython).&lt;/li&gt;
+&lt;li&gt;Added a new Java compile action to compile the current opened Eclipse editor source (ImageJ plugins, etc.)&lt;/li&gt;
+&lt;li&gt;MouseWheel actions are now working as intended (use STRG+MousWheel to zoom!)&lt;/li&gt;
+&lt;li&gt;Improved stability for drag and drop of multiple image files&lt;/li&gt;
+&lt;li&gt;Improved stability for MacOSX&lt;/li&gt;
+&lt;li&gt;Reorganized Eclipse plugins and features&lt;/li&gt;
+&lt;li&gt;ImageJ2 can now be optionally installed and is not bundled by default (now optional dependent of ImageJ). Customization is possible (plugin can be populated with maven command in Eclipse)&lt;/li&gt;
+&lt;li&gt;Added the latest ImageJ macro function templates&lt;/li&gt;
+&lt;li&gt;JavaFX (embed Swing in JavaFX and SWT panel) can now be optionally installed (but is not necessary by default)&lt;/li&gt;
+&lt;li&gt;Removed the outdated Albireo plugin dependency&lt;/li&gt;
+&lt;li&gt;Added key listener for the tab when all images are closed (ImageJ keys!)&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ macro hoover (workaround for SWT_AWT)&lt;/li&gt;
+&lt;li&gt;Added a workaround for repaint issues in MacOSX when switching perspectives with SWT_AWT&lt;/li&gt;
+&lt;li&gt;Added a workaround for MacOSX to receive key events again after focus lost (sometimes you need to press the mouse two times when the perspectives have been switched)&lt;/li&gt;
+&lt;li&gt;Fixed several rare occuring deadlock events on MacOSX&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52h (1.52h5):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated to ImageJ 1.52h (1.52h5)&lt;/li&gt;
+&lt;li&gt;Added a new rename action (rename all words like the current selection - multiple cursor)&lt;/li&gt;
+&lt;li&gt;Improved dark theme with popular Eclipse darkest dark theme and default dark theme&lt;/li&gt;
+&lt;li&gt;Editor colors are automatically switched when using the dark theme (or darkest dark theme)&lt;/li&gt;
+&lt;li&gt;ImageJ toolbar improved for the dark theme&lt;/li&gt;
+&lt;li&gt;Added a new ImageJ detach image menu in the ‘Window’ menu of the ImageJ-Canvas view&lt;/li&gt;
+&lt;li&gt;Added all new ImageJ macro API functions to the code completion of the macro editor&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ MacOSX touchpad resizing of the ImageJ panel&lt;/li&gt;
+&lt;li&gt;Improved the default font size for Swing components on Retina displays (e.g., ImageJ components - can be changed in the preferences)&lt;/li&gt;
+&lt;li&gt;Added some new macro source actions (Block Selection, Find And Replace, etc. - submenu Text ) to the macro editor&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52c12:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated to ImageJ 1.52c12&lt;/li&gt;
+&lt;li&gt;Updated ImageJ2 libraries (pom-scijava 20.0.0)&lt;/li&gt;
+&lt;li&gt;Added recent macro API commands to code completion&lt;/li&gt;
+&lt;li&gt;Fixed some minor bugs (hoover offset, Linux awt dialogs etc.)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51u54:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated to ImageJ 1.51u54&lt;/li&gt;
+&lt;li&gt;Fixed lost keyboard focus for key shortcuts&lt;/li&gt;
+&lt;li&gt;Improved preferences for Swing fonts (to decrease on Retina displays)&lt;/li&gt;
+&lt;li&gt;Several other fixes for MacOSX&lt;/li&gt;
+&lt;li&gt;Added description for increased fonts for MacOSX (see Github page!)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51u20:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Cluttered MACOSX menus are now closed (added from opened application windows and frames). Some default added menus are disabled in the Bio7 preferences by default&lt;/li&gt;
+&lt;li&gt;Code completion (template) action now displays the macro documentation and context information when typing&lt;/li&gt;
+&lt;li&gt;Improved code completion layout (context information)&lt;/li&gt;
+&lt;li&gt;Added debug context menu actions to the macro editor&lt;/li&gt;
+&lt;li&gt;Added some other context menu actions, too (&#039;Get Macro Recorder Text&#039;, &#039;Evaluate Line&#039;)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51s24:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.51.s24&lt;/li&gt;
+&lt;li&gt;Code completion (templates) action now displays the macro documentation when typing&lt;/li&gt;
+&lt;li&gt;Code completion context information improved&lt;/li&gt;
+&lt;li&gt;Images from macros are now opened fast (before had a 2s delay because of a missing attribute)&lt;/li&gt;
+&lt;li&gt;MacOSX extra menu disabled (avoids a cluttered menu)&lt;/li&gt;
+&lt;li&gt;Macros can now be executed within an external ImageJ instance in a separate Java process (if enabled in the preference - see screenshot 2 below)&lt;/li&gt;
+&lt;li&gt;Added JavaFX library reference for Java9&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51p4 (bugfix):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a bug to rename the &#039;Results&#039; table&lt;/li&gt;
+&lt;li&gt;Fixed a key shortcut bug&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51p3 (bugfix):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;    Improved the grammar&lt;/li&gt;
+&lt;li&gt;    Added an action to transfer the ImageJ macro recorder text to the selected line in the macro editor (CTRL+SHIFT+R, CMD+SHIFT+R)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51p (bugfix):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a bug to control dialogs&lt;/li&gt;
+&lt;li&gt;Fixed a Linux code templates bug&lt;/li&gt;
+&lt;li&gt;Added more code completion templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51p:&lt;/p&gt;
+&lt;p&gt;In this relase a macro editor and ImageJ perspective have been added to the ImageJ plugin. In addition the menu of the ImageJ plugin is now right assigned and the toolbar resizes dynamically.&lt;/p&gt;
+&lt;p&gt;The editor has the following features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;    Dynamic error detection (grammar derived from the ECMA grammar by Bart Kiers)&lt;/li&gt;
+&lt;li&gt;    Toolbar action to execute ImageJ macros&lt;/li&gt;
+&lt;li&gt;    Syntax highlightening&lt;/li&gt;
+&lt;li&gt;    Debugging support (reusing and implementing interfaces and methods from ImageJ - same keyboard shortcuts - see animation below)&lt;/li&gt;
+&lt;li&gt;    Code completion (with browser help)&lt;/li&gt;
+&lt;li&gt;    Code templates (add you own templates)&lt;/li&gt;
+&lt;li&gt;    Info popups (text hoover)&lt;/li&gt;
+&lt;li&gt;    Outline view (var variables, variables, methods and macros)&lt;/li&gt;
+&lt;li&gt;    Automatic closing of braces, parentheses and strings Automatic indention of functions,loops, etc.&lt;/li&gt;
+&lt;li&gt;    Code folding&lt;/li&gt;
+&lt;li&gt;    Code formatting (based on the Eclipse-javascript-formatter by Sebastian Moran)&lt;/li&gt;
+&lt;li&gt;    Resize fonts functions (with Ctrl++ or CMD++, CTRL+- or CMD +-)&lt;/li&gt;
+&lt;li&gt;    Font preferences&lt;/li&gt;
+&lt;li&gt;    Mark occurences (scope independant)&lt;/li&gt;
+&lt;li&gt;    A copy function for this forum&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51n:&lt;/p&gt;
+&lt;p&gt;* Added a fake editor to register and open standard image files from the Navigator or Project Explorer, etc in the ImageJ view.&lt;/p&gt;
+&lt;p&gt;* Fixed several image conversion bugs&lt;/p&gt;
+&lt;p&gt;* Moved plugin update site to github (if you have an old installation please uninstall the old plugins first before you install from this location!)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 05 Oct 2016 10:59:26 +0000</pubDate>
+ <dc:creator>mmisingnameaoh</dc:creator>
+ <guid isPermaLink="false">3103502 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/imagej-plugin#comments</comments>
+  </item>
+  <item>
+    <title>Checkstyle Plug-in</title>
+    <link>http://marketplace.eclipse.org/content/checkstyle-plug</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/eclipse-cs-little.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ldderitzsch74f/listings&quot; title=&quot;Lars  ödderitzsch&quot;&gt;Lars  ödderitzsch&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2005-05-26 21:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2021-05-12 02:46&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Lars%20K%C3%B6dderitzsch%22&quot;&gt;Lars Ködderitzsch&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Checkstyle Plugin (eclipse-cs) integrates the well-known source code analyzer Checkstyle into the Eclipse IDE. Checkstyle is a development tool to help you ensure that your Java code adheres to a set of coding standards. Checkstyle does this by inspecting your Java source code and pointing out items that deviate from a defined set of coding rules. With the Checkstyle Plugin your code is constantly inspected for problems. Within the Eclipse workbench you are notified of problems via the Eclipse Problems View and source code annotations just as you would see with compiler errors or warnings. A comfortable Checkstyle configuration editor helps you create and maintain your audit rule configurations. Using filters and file sets you are able to define which files get checked and which don&#039;t.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 27 May 2005 01:03:32 +0000</pubDate>
+ <dc:creator>ldderitzsch74f</dc:creator>
+ <guid isPermaLink="false">150 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/checkstyle-plug#comments</comments>
+  </item>
+  </channel>
+</rss>

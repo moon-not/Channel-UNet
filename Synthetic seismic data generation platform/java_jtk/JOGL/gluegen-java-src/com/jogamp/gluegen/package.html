@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>GlueGen Code Generator</title>
+</head>
+  <body>
+<h2><i>JogAmp GlueGen</i> Code Generator</h2>
+  <h4>GlueGen Data Type Mapping</h4>
+  Gluegen has build-in types (terminal symbols) for:<br/>
+  <br/>
+  <table border="1">
+    <tr><th>type</th>      <th>java bits</th> <th colspan="2">native bits</th>                <th>type</th>   <th>signed</th>            <th>origin</th></tr>
+    <tr><th></th>          <th></th>          <th>x32</th>            <th>x64</th>            <th></th>       <th></th>                  <th></th></tr>
+    <tr><td>void</td>      <td> 0</td>        <td> 0</td>             <td> 0</td>             <td>void</td>   <td>void</td>              <td>ANSI-C</td></tr>
+    <tr><td>char</td>      <td> 8</td>        <td> 8</td>             <td> 8</td>             <td>integer</td><td>any</td>               <td>ANSI-C</td></tr>
+    <tr><td>short</td>     <td>16</td>        <td>16</td>             <td>16</td>             <td>integer</td><td>any</td>               <td>ANSI-C</td></tr>
+    <tr><td>int</td>       <td>32</td>        <td>32</td>             <td>32</td>             <td>integer</td><td>any</td>               <td>ANSI-C</td></tr>
+    <tr><td>long</td>      <td>64</td>        <td>32</td>             <td><b>32<sup>1</sup></b></td> <td>integer</td><td>any</td>               <td>ANSI-C - Windows</td></tr>
+    <tr><td>long</td>      <td>64</td>        <td>32</td>             <td><b>64</b></td>      <td>integer</td><td>any</td>               <td>ANSI-C - Unix</td></tr>
+    <tr><td>float</td>     <td>32</td>        <td>32</td>             <td>32</td>             <td>float</td>  <td>signed</td>            <td>ANSI-C</td></tr>
+    <tr><td>double</td>    <td>64</td>        <td>64</td>             <td>64</td>             <td>double</td> <td>signed</td>            <td>ANSI-C</td></tr>
+    <tr><td>__int32</td>   <td>32</td>        <td>32</td>             <td>32</td>             <td>integer</td><td>any</td>               <td>windows</td></tr>
+    <tr><td>__int64</td>   <td>64</td>        <td>64</td>             <td>64</td>             <td>integer</td><td>any</td>               <td>windows</td></tr>
+    <tr><td>int8_t</td>    <td> 8</td>        <td> 8</td>             <td> 8</td>             <td>integer</td><td>signed</td>            <td>stdint.h</td></tr>
+    <tr><td>uint8_t</td>   <td> 8</td>        <td> 8</td>             <td> 8</td>             <td>integer</td><td>unsigned</td>          <td>stdint.h</td></tr>
+    <tr><td>int16_t</td>   <td>16</td>        <td>16</td>             <td>16</td>             <td>integer</td><td>signed</td>            <td>stdint.h</td></tr>
+    <tr><td>uint16_t</td>  <td>16</td>        <td>16</td>             <td>16</td>             <td>integer</td><td>unsigned</td>          <td>stdint.h</td></tr>
+    <tr><td>int32_t</td>   <td>32</td>        <td>32</td>             <td>32</td>             <td>integer</td><td>signed</td>            <td>stdint.h</td></tr>
+    <tr><td>uint32_t</td>  <td>32</td>        <td>32</td>             <td>32</td>             <td>integer</td><td>unsigned</td>          <td>stdint.h</td></tr>
+    <tr><td>int64_t</td>   <td>64</td>        <td>64</td>             <td>64</td>             <td>integer</td><td>signed</td>            <td>stdint.h</td></tr>
+    <tr><td>uint64_t</td>  <td>64</td>        <td>64</td>             <td>64</td>             <td>integer</td><td>unsigned</td>          <td>stdint.h</td></tr>
+    <tr><td>intptr_t</td>  <td>64</td>        <td>32</td>             <td>64</td>             <td>integer</td><td>signed</td>            <td>stdint.h</td></tr>
+    <tr><td>uintptr_t</td> <td>64</td>        <td>32</td>             <td>64</td>             <td>integer</td><td>unsigned</td>          <td>stdint.h</td></tr>
+    <tr><td>ptrdiff_t</td> <td>64</td>        <td>32</td>             <td>64</td>             <td>integer</td><td>signed</td>            <td>stddef.h</td></tr>
+    <tr><td>size_t</td>    <td>64</td>        <td>32</td>             <td>64</td>             <td>integer</td><td>unsigned</td>          <td>stddef.h</td></tr>
+    <tr><td>wchar_t</td>   <td>32</td>        <td>32</td>             <td>32</td>             <td>integer</td><td>signed</td>            <td>stddef.h</td></tr>
+  </table>
+  <p>
+  <b>Warning:</b> Try to avoid unspecified bit sized types, especially <b>long</b>, since it differs on Unix and Windows!<br/>
+  <b>Notes:</b>
+  <ol>
+      <li>Type <b>long</b> will result in broken code on Windows, since we don't differentiate the OS and it's bit size is ambiguous.</li>
+      <li>Anonymous void-pointer <i>void*</i> are mapped to NIO <i>Buffer</i>.</li>
+      <li>Pointers to pointer-size types like <i>intptr_t*</i>, <i>uintptr_t*</i>, <i>ptrdiff_t*</i> and <i>size_t*</i> are mapped to <i>PointerBuffer</i>, 
+                      to reflect the architecture depending storage size.</li>
+  </ol>
+  </p>
+  
+  <h4>GlueGen Internal Alignment for Compound Data</h4>
+  In general, depending on CPU and it's configuration (OS), alignment is set up 
+  for each type (char, short, int, long, ..).
+  <p>Compounds (structures) are aligned naturally, i.e. their inner components are aligned<br>
+  and are itself aligned to it's largest element.</p>
+  See:<br>
+  <ul>
+   <li><a href="http://en.wikipedia.org/wiki/Data_structure_alignment">Wikipedia Data Structure Alignment</a></li>
+   <li><a href="http://en.wikipedia.org/wiki/Data_structure_alignment#Data_structure_padding">Wikipedia Data Structure Alignment - Padding</a></li>
+   <li><a href="http://www.viva64.com/en/l/0021/">Viva64 Data Alignment</a></li>
+   <li><a href="http://developer.apple.com/library/mac/#documentation/Darwin/Conceptual/64bitPorting/transition/transition.html#//apple_ref/doc/uid/TP40001064-CH207-SW1">Apple: Darwin 64bit Porting - Data Type Size &amp; Alignment</a></li>
+  </ul>
+  
+  <h5>Simple alignment arithmetic</h5>
+  Modulo operation, where the 2nd handles the case offset == alignment:
+  <blockquote>
+    padding = ( alignment - ( offset % alignment ) ) % alignment ; <br>
+    aligned_offset = offset + padding ;
+  </blockquote>
+  Optimization utilizing alignment as a multiple of 2 <code>-> x % 2n == x & ( 2n - 1 )</code><br>
+  <blockquote>
+   remainder = offset & ( alignment - 1 ) ; <br>
+   padding = ( remainder > 0 ) ? alignment - remainder : 0 ;<br>
+   aligned_offset = offset + padding ;   
+  </blockquote>
+  Without branching, using the 2nd modulo operation for the case offset == alignment:
+  <blockquote>
+   padding = ( alignment - ( offset & ( alignment - 1 ) ) ) & ( alignment - 1 ) ;<br>
+   aligned_offset = offset + padding ;   
+  </blockquote>
+  See <code>com.jogamp.gluegen.cgram.types.SizeThunk.align(..)</code>.
+  
+  <h5>Type Size &amp; Alignment for x86, x86_64, armv6l-32bit-eabi and Window(mingw/mingw64)</h5>
+  Runtime query is implemented as follows: 
+  <pre>
+   typedef struct {
+     char   fill;  // nibble one byte
+                   // padding to align s1: padding_0 
+     type_t s1;    // 
+   } test_struct_type_t;
+  
+             padding_0 = sizeof(test_struct_type_t) - sizeof(type_t) - sizeof(char) ;
+   alignmentOf(type_t) = sizeof(test_struct_type_t) - sizeof(type_t) ;
+  </pre>
+   
+  <table border="1">
+    <tr><th>type</th>      <th colspan="2">32 bits</th><th colspan="2">64 bits</th></tr>
+    <tr><th></th>          <th>size</th><th>alignment</th><th>size</th><th>alignment</th></tr>
+    <tr><td>char</td>      <td> 1</td>        <td>  1</td>    <td> 1</td> <td> 1</td></tr>
+    <tr><td>short</td>     <td> 2</td>        <td>  2</td>    <td> 2</td> <td> 2</td></tr>
+    <tr><td>int</td>       <td> 4</td>        <td>  4</td>    <td> 4</td> <td> 4</td></tr>
+    <tr><td>float</td>     <td> 4</td>        <td>  4</td>    <td> 4</td> <td> 4</td></tr>
+    <tr><td>long</td>      <td> 4</td>        <td>  4</td>    <td> 8<sup>&dagger;</sup>,4<sup>&lowast;</sup></td> <td> 8<sup>&dagger;</sup>,4<sup>&lowast;</sup></td></tr>
+    <tr><td>pointer</td>   <td> 4</td>        <td>  4</td>    <td> 8</td> <td> 8</td></tr>
+    <tr><td>long long</td> <td> 8</td> <td>4<sup>&dagger;</sup>,8<sup>&lowast;</sup><sup>+</sup></td>    <td> 8</td> <td> 8</td></tr>
+    <tr><td>double</td>    <td> 8</td> <td>4<sup>&dagger;</sup>,8<sup>&lowast;</sup><sup>+</sup></td>    <td> 8</td> <td> 8</td></tr>
+    <tr><td>long double</td><td>12<sup>&dagger;</sup><sup>&lowast;</sup>,8<sup>+</sup>,16<sup>-</sup></td> <td>4<sup>&dagger;</sup><sup>&lowast;</sup>,8<sup>+</sup>,16<sup>-</sup></td>    <td> 16</td> <td>16</td></tr>
+  </table><br>
+  <sup>&dagger;</sup> Linux, Darwin<br>
+  <sup>+</sup>armv7l-eabi<br>
+  <sup>-</sup> MacOsX-32bit-gcc4<br>
+  <sup>&lowast;</sup> Windows<br>
+  </P>
+ 
+  <h4>GlueGen Platform Header Files</h4>
+  GlueGen provides convenient platform headers,<br/>
+  which can be included in your C header files for native compilation and GlueGen code generation.<br/>
+  <br/>
+  Example:<br/>
+  <pre>
+   #include &lt;gluegen_stdint.h&gt;
+   #include &lt;gluegen_stddef.h&gt;
+ 
+   uint64_t test64;
+   size_t size1;
+   ptrdiff_t ptr1;
+  </pre>
+  <br/>
+  To compile this file you have to include the following folder to your compilers system includes, ie <code>-I</code>:<br/>
+  <pre>
+    gluegen/make/stub_includes/platform
+  </pre>
+  <br>
+  To generate code for this file you have to include the following folder to your GlueGen <code>includeRefid</code> element:<br>
+  <pre>
+    gluegen/make/stub_includes/gluegen
+  </pre>
+  <h4>GlueGen Pre-Defined Macros</h4>
+  To identity a GlueGen code generation run, GlueGen defines the following macros:<br/>
+  <pre>
+     #define __GLUEGEN__ 2
+  </pre>
+  <br>
+ <br>
+</body>
+</html>

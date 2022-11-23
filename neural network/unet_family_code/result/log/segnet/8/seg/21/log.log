@@ -1,0 +1,24 @@
+2020-12-28 16:39:50,542:INFO:
+=======
+models:segnet,
+epoch:21,
+batch size:8
+dataset:seg
+========
+2020-12-28 16:39:52,231:INFO:Epoch 0/20
+2020-12-28 16:44:32,865:INFO:
+=======
+models:segnet,
+epoch:21,
+batch size:8
+dataset:seg
+========
+2020-12-28 16:44:34,441:INFO:Epoch 0/20
+2020-12-28 16:54:07,200:INFO:
+=======
+models:segnet,
+epoch:21,
+batch size:8
+dataset:seg
+========
+2020-12-28 16:54:08,751:INFO:Epoch 0/20

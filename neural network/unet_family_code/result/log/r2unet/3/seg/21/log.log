@@ -1,0 +1,8 @@
+2020-12-24 19:24:17,347:INFO:
+=======
+models:r2unet,
+epoch:21,
+batch size:3
+dataset:seg
+========
+2020-12-24 19:24:19,264:INFO:Epoch 0/20

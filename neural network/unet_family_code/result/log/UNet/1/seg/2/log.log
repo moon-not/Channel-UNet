@@ -1,0 +1,8 @@
+2020-12-15 21:36:26,458:INFO:
+=======
+models:UNet,
+epoch:2,
+batch size:1
+dataset:seg
+========
+2020-12-15 21:36:28,019:INFO:final test........

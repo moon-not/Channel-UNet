@@ -1,0 +1,7 @@
+2020-12-17 17:55:38,855:INFO:
+=======
+models:ttention_UNet,
+epoch:21,
+batch size:1
+dataset:seg
+========

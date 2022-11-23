@@ -1,0 +1,54 @@
+2021-01-09 22:16:28,871:INFO:
+=======
+models:myChannelUnet,
+epoch:21,
+batch size:16
+dataset:seg
+========
+2021-01-09 22:16:30,469:INFO:Epoch 0/20
+2021-01-09 22:16:31,957:INFO:1/25,train_loss:0.731
+2021-01-09 22:17:46,219:INFO:
+=======
+models:myChannelUnet,
+epoch:21,
+batch size:16
+dataset:seg
+========
+2021-01-09 22:17:47,820:INFO:Epoch 0/20
+2021-01-09 22:17:49,319:INFO:1/25,train_loss:0.771
+2021-01-09 22:18:31,573:INFO:
+=======
+models:myChannelUnet,
+epoch:21,
+batch size:16
+dataset:seg
+========
+2021-01-09 22:18:33,166:INFO:Epoch 0/20
+2021-01-09 22:18:34,667:INFO:1/25,train_loss:0.702
+2021-01-09 22:19:21,024:INFO:
+=======
+models:myChannelUnet,
+epoch:21,
+batch size:16
+dataset:seg
+========
+2021-01-09 22:19:22,663:INFO:Epoch 0/20
+2021-01-09 22:19:24,205:INFO:1/25,train_loss:0.665
+2021-01-09 22:20:20,345:INFO:
+=======
+models:myChannelUnet,
+epoch:21,
+batch size:16
+dataset:seg
+========
+2021-01-09 22:20:22,065:INFO:Epoch 0/20
+2021-01-09 22:20:23,528:INFO:1/25,train_loss:0.584
+2021-01-10 14:02:00,626:INFO:
+=======
+models:myChannelUnet,
+epoch:21,
+batch size:16
+dataset:seg
+========
+2021-01-10 14:02:03,151:INFO:Epoch 0/20
+2021-01-10 14:02:05,293:INFO:1/25,train_loss:0.766

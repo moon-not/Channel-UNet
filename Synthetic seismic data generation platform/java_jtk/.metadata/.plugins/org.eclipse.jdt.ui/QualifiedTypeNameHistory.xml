@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.ByteArrayInputStream"/>
+<fullyQualifiedTypeName name="java.awt.image.MemoryImageSource"/>
+<fullyQualifiedTypeName name="ipf.Listen"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.sun.prism.paint.Color"/>
+<fullyQualifiedTypeName name="java.awt.image.BufferedImage"/>
+<fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+<fullyQualifiedTypeName name="java.awt.Graphics"/>
+<fullyQualifiedTypeName name="javax.swing.JApplet"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.io.OutputStream"/>
+<fullyQualifiedTypeName name="com.jogamp.graph.font.Font"/>
+<fullyQualifiedTypeName name="ipf.test.vertify.VerifyCode"/>
+<fullyQualifiedTypeName name="com.sun.javafx.geom.Line2D"/>
+<fullyQualifiedTypeName name="com.sun.javafx.geom.Point2D"/>
+<fullyQualifiedTypeName name="com.sun.javafx.geom.Shape"/>
+<fullyQualifiedTypeName name="javax.swing.JPanel"/>
+</qualifiedTypeNameHistroy>
