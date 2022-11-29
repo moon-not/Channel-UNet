@@ -8,4 +8,8 @@ Traditional fault detection requires manual interpretation, limited by inefficie
 /Synthetic seismic data generation platform represents the process of obtaining synthetic data sets;
 /neural network represents includes the Channel-UNet dataset (train, validation, test) and the network code related to the experiment. Relevant prediction results can be viewed in the subfolder —— saved_predict
 
-Most importantly, we can obtain the saved Channel-UNet model through the folder —— saved_model as a quick-test.
+Most importantly, we can obtain the saved Channel-UNet model under the master branch(myChannelUnet_4_seg_21 and myChannelUnet_8_seg_21)，which can be used as a quick-test.
+
+Hardware requirements: Intel(R) Core(TM) i5-10300 CPU and NVIDIA GeForce GTX 1650 GPU
+
+Software required: PyTorch 1.1.0 and Python 3.6.5
