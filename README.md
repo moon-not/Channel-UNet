@@ -8,4 +8,4 @@ Traditional fault detection requires manual interpretation, limited by inefficie
 /Synthetic seismic data generation platform represents the process of obtaining synthetic data sets;
 /neural network represents includes the Channel-UNet dataset (train, validation, test) and the network code related to the experiment. Relevant prediction results can be viewed in the subfolder —— saved_predict
 
-Most importantly, we can view the saved Channel-UNet model through the folder —— saved_model as a quick-test.
+Most importantly, we can obtain the saved Channel-UNet model through the folder —— saved_model as a quick-test.
