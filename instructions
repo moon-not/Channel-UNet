@@ -1,0 +1,5 @@
+myChannelUnet_4_seg_21 under master branch can be directly used as a trained model.
+
+Hardware requirements: Intel(R) Core(TM) i5-10300 CPU and NVIDIA GeForce GTX 1650 GPU.
+
+Software required: PyTorch 1.1.0 and Python 3.6.5
